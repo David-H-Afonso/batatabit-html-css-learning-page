@@ -10,9 +10,10 @@
 
 <h2>Try it here! 🧾</h2>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/12b0d818-0acc-4737-a7e1-5b1b92ca60e6/deploy-status)](https://app.netlify.com/sites/vuedex-dha/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/12b0d818-0acc-4737-a7e1-5b1b92ca60e6/deploy-status)](https://app.netlify.com/sites/batatabit-html-css-learning-page
+/deploys)
 [![License](https://img.shields.io/github/license/David-H-Afonso/vuedex?color=blue)](./LICENSE)
-![GitHub last commit](https://img.shields.io/github/last-commit/David-H-Afonso/vuedex)
+![GitHub last commit](https://img.shields.io/github/last-commit/David-H-Afonso/batatabit-html-css-learning-page)
 
 <p>👉🏻 https://batatabit-html-css-learning-page.netlify.app</p>
 <a href="https://batatabit-html-css-learning-page.netlify.app" target="_blank"><img src="https://repository-images.githubusercontent.com/356080858/d44ad500-ddc2-11eb-89e7-84cb9c8ed1d5"></a>
